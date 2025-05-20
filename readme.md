@@ -16,7 +16,11 @@
 - CLIENT TERMINAL IN IDLE
 ![Image](https://github.com/user-attachments/assets/06ed855a-473f-43a4-86dd-f0980817097e)
 
-### CODE
+## DICUSSION
+The difference between actual distances (0.5, 1, 2, 3, 4) and estimated distances are so meaningful that this system, i think,  could not be used in reallity, actual distance is 0.5 m, but estimated distance is 1.26 m, this difference is awesome.
+it is not generalized result, just on my view with our result.   
+
+## CODE
 - `Server Code`
 
 ``` ino
